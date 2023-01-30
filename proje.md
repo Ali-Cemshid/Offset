@@ -1,1 +1,1 @@
-[!image]
+<img src="proje.png">
